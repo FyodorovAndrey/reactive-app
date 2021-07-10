@@ -1,0 +1,5 @@
+package com.nvfredy.reactiveapp.entity;
+
+public enum UserRole {
+    ROLE_USER, ROLE_ADMIN
+}
